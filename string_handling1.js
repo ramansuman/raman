@@ -1,7 +1,7 @@
 //Given a string containing character "a" having each letter in lowercase.
 //Return string by replacing all character "a" with "m" and make all characters in uppercase.
 const prompt = require("prompt-sync")();
-let str = prompt("Enter a string having letter a:- ")
+const str = prompt("Enter a string having letter a:- ")
 let choice;
 console.log(`CHOICES TO REPLACE:- 
 1. To replace all the 'a' in the string with 'm'
