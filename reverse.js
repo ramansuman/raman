@@ -2,7 +2,7 @@
 const prompt=require("prompt-sync")();
 const str=prompt("Enter a string to reverse:- ");
 let choice;
-console.log(`How you want your output?
+console.log(`CHOICES TO REVERSE:- 
 1:- reverse word by word
 2:- reverse letter by letter`);
 choice=parseInt(prompt("Enter your choice :- "));
