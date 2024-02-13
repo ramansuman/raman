@@ -8,4 +8,4 @@ function monitorCount(rows,columns){
     return rows*columns
 }
 const numOfMonitors = monitorCount(rows,columns)
-console.log(`The number of monitor needed in office :- ${numOfMonitors}`)
+console.log(`The number of monitor needed in office is :- ${numOfMonitors}`)
